@@ -1,0 +1,14 @@
+
+Introduction courte avec des assertions (explication en même temps).
+
+- Workshop 1: Lazy pull [ < 15min ]
+
+- Workshop 2: Récursion [ < 10min ]
+=> Pour approfondir avec un TP: https://hastebin.com/xoraxixanu.js
+
+- Workshop 3: Récursion Async [ < 15min ]
+=> Pour approfondir avec un TP: https://docs.google.com/document/d/19Pin6vMumklDEWlhxlgkbtOqx5CiDE7EOUHLcLq52Ck/edit?usp=sharing
+
+Introduction des generators "push" (as Observer).
+
+- Workshop 4 [ < 30min ]
